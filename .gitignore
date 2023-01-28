@@ -6,5 +6,4 @@ target
 .metals
 project/.bloop
 project/project
-/.idea/
 .idea
